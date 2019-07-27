@@ -15,3 +15,6 @@ pip install --upgrade google-api-python-client
 ## Limitations
 Won't work for big files (>900M).
 Will only work for common file types.
+
+## Credits
+Most of the work based on: https://github.com/googleapis/google-api-python-client
