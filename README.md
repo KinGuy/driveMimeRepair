@@ -8,7 +8,7 @@ It uses python to authenticate and connect to Drive API.
 3. Rename JSON file to 'client_secret.json'
 4. Install using `pip`:
 ```bash
-pip install --upgrade google-api-python-client
+pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 ```
 5. Run python code.
 
